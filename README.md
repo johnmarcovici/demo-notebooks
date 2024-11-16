@@ -1,2 +1,2 @@
-# demo-notebooks
+# Demo Notebooks
 Demonstration notebooks for various purposes
